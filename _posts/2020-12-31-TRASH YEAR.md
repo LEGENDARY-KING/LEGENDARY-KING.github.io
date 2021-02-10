@@ -1,3 +1,8 @@
+---
+layout: post
+title: Trash Year
+---
+
 About
 Some information about you!
 
